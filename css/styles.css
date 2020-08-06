@@ -1,0 +1,16 @@
+body {
+  background-color: #f6f6f6;
+  overflow-y: scroll
+}
+
+#main {
+  background-color: white;
+}
+
+#welcome {
+  background-color: #f6f6f6;
+}
+
+.welcome-list {
+  float: left;
+}
