@@ -28,3 +28,30 @@ body {
   background-color:  #cef2e0;
   border: 2px black solid;
 }
+
+.blue {
+  background-color: #cedff2; 
+  border: 1px solid  #a3b0bf;
+}
+
+.blue h2 {
+  background-color:  #a3b0bf;
+  border: 1px black solid;
+}
+
+#sidebar img {
+  margin auto;
+  width: 100%;
+}
+
+p {
+  text-align: left;
+}
+
+#welcome p {
+  text-align: center;
+}
+
+#sidebar ul {
+  /* float: right; */
+}
