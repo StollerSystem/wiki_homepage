@@ -24,6 +24,16 @@ body {
   border: 1px solid  #cef2e0;
 }
 
+.green img {
+  float: left;
+  padding: 5px;
+  width: 40%;
+}
+
+/* .green p {
+  float: right;
+} */
+
 .green h2 {
   background-color:  #cef2e0;
   border: 2px black solid;
@@ -40,7 +50,7 @@ body {
 }
 
 #sidebar img {
-  margin auto;
+  margin: auto;
   width: 100%;
 }
 
@@ -52,6 +62,3 @@ p {
   text-align: center;
 }
 
-#sidebar ul {
-  /* float: right; */
-}
