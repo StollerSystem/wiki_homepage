@@ -30,9 +30,11 @@ body {
   width: 40%;
 }
 
-/* .green p {
+.blue img {
   float: right;
-} */
+  padding: 5px;
+  width: 40%;
+}
 
 .green h2 {
   background-color:  #cef2e0;
